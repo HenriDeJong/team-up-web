@@ -1021,7 +1021,7 @@ define(
           loading_Members: 'Team-Mitglieder laden...',
           loading_everything: 'Alles geladen!',
           //start TODO
-          loggingOff: 'Logging off',
+          loggingOff: 'Abmelden',
           //end
           logout: 'Abmelden',
           loading: 'Laden..',
@@ -1033,7 +1033,7 @@ define(
         video: {
           //start TODO
           title: 'Video',
-          videoNotLoaded: 'Your videocall could not be loaded.',
+          videoNotLoaded: 'Videokonferenz konnte nicht gestartet werden.',
           //end
           stop: 'Videokonferenz wurde beendet.'
         },
@@ -1048,10 +1048,10 @@ define(
           noPlanning: 'Keine planung',
           load: 'laden...',
           time: {
-            days: 'd',
-            hours: 'u',
-            minutes: 'm',
-            seconds: 's'
+            days: 'T',
+            hours: 'S',
+            minutes: 'M',
+            seconds: 'S'
           },
           accessibilityStatement: 'Übersicht verfügbarkeit',
           loading: 'laden...',
@@ -1194,10 +1194,10 @@ define(
           till: 'Bis',
           state: 'Status',
           selectAState: 'Status wählen',
-          reoccuring: 'Jede woche',
+          reoccuring: 'jede woche',
           lessPeople: 'Es fehlen $v Personen.',
           samePeople: 'Es sind ausreichend Personen vorhanden.',
-          morePeople: 'E sind $v Personen zu viel.',
+          morePeople: 'Es sind $v Personen zu viel.',
           wished: 'Bedarf',
           combine_reoccuring: 'Es betrifft eine kombinierte Planung mit mehreren Reihen ?????? ',
           sendMsgToMember: 'Nachricht an Gruppe senden',
@@ -1253,9 +1253,9 @@ define(
           preCompilingStortageMessage: 'Bedarfsbericht erstellen',
           weeklyPlanning: 'Neine wöchentliche planung',
           weeklyPlanningOf: 'Wöchentliche planung von ',
-          planning: 'Meine planung',
+          planning: 'meine Planung',
           planningOf: 'Planung von ',
-          minNumber: 'Minimum anzahl benötigt ',
+          minNumber: 'minimum Anzahl benötigt ',
           time: 'Zeit: ',
           weekNumber: 'Woche: ',
           monthNumber: 'Monat: ',
@@ -1327,8 +1327,8 @@ define(
         message: {
           //start TODO
           title: 'CHAT',
-          messagesLoaded: 'Loading messages...',
-          videoStartedBy: 'Video message started by ',
+          messagesLoaded: 'Nachrichten laden...',
+          videoStartedBy: 'Videokonferenz gestartet von ',
           //end
           messages: 'Nachrichten',
           composeAMessage: 'Nachricht erstellen',
@@ -1476,7 +1476,7 @@ define(
           newPass: 'neues Passwort',
           newPassRepeat: 'neues Passwort wiederholen',
           changePass: 'Passwort ändern',
-          newAvail: 'Nieuwe bereikbaarheid',
+          newAvail: 'neue Verfügbarkeit',
           userName: 'Anwendername',
           pincode: 'teamlidcode',
           refreshing: 'Profielinformatie vernieuwen...',
@@ -1589,9 +1589,9 @@ define(
           order: 'Auftrag',
           options: 'Einstellungen',
           //start TODO
-          help: "Help",
-          new: 'New',
-          existing: 'Existing',
+          help: "Hilfe",
+          new: 'neu',
+          existing: 'vorhanden',
           //end
           teams: 'Gruppen',
           selectTeam: 'Gruppe auswählen',
